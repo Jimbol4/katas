@@ -6,6 +6,8 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Acme\\Player' => $baseDir . '/src/Acme/Player.php',
+    'Acme\\Tennis' => $baseDir . '/src/Acme/Tennis.php',
     'BowlingGame' => $baseDir . '/src/BowlingGame.php',
     'PrimeFactors' => $baseDir . '/src/PrimeFactors.php',
     'RomanNumeralsConverter' => $baseDir . '/src/RomanNumeralsConverter.php',

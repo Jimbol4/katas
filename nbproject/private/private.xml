@@ -3,8 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/code/katas/spec/StringCalculatorSpec.php</file>
-            <file>file:/C:/code/katas/src/StringCalculator.php</file>
+            <file>file:/C:/wamp/www/katas/spec/Acme/TennisSpec.php</file>
+            <file>file:/C:/wamp/www/katas/spec/BowlingGameSpec.php</file>
+            <file>file:/C:/wamp/www/katas/src/Acme/Tennis.php</file>
         </group>
     </open-files>
 </project-private>
